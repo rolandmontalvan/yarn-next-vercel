@@ -40,7 +40,7 @@ const AccountSettingsLayout = ({ children }) => {
         </ActiveLink>
 
         <ActiveLink href="/account-settings/billing" className="ml-10">
-          Rendimento
+          Faturamento
         </ActiveLink>
 
         <ActiveLink href="/account-settings/notifications" className="ml-10">
