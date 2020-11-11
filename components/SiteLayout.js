@@ -9,7 +9,7 @@ const SiteLayout = ({ children }) => (
             <div className="py-4 flex-shrink-0 flex items-center">
               <img className="h-8 w-8" src="/logo.svg" alt="" />
               <Link href="/">
-                <a className="ml-8 font-medium text-gray-900">Home</a>
+                <a className="ml-8 font-medium text-gray-900">Início</a>
               </Link>
               <Link href="/account-settings/basic-information">
                 <a className="ml-8 font-medium text-gray-900">
