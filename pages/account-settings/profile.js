@@ -6,7 +6,7 @@ const Index = () => (
     <div>
       <div className="pt-6 pb-8 sm:pt-8">
         <p className="text-sm text-gray-700">
-          Defina as informações do seu pet aqui para que a organozação do hotel possa ver.
+          Defina as informações do seu pet aqui para que a organozação do hotel possa conhece-lo.
         </p>
         <div className="mt-6">
           <div className="max-w-4xl mx-auto">

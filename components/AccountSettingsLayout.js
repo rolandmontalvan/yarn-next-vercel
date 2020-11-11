@@ -21,18 +21,18 @@ const ActiveLink = ({ children, href, className }) => {
 const AccountSettingsLayout = ({ children }) => {
   return (
     <div className="max-w-xl mx-auto px-8">
-      <h1 className="text-2xl text-gray-900 font-semibold">Configurações da Conta</h1>
+      <h1 className="text-2xl text-gray-900 font-semibold">Configurações da Reserva</h1>
 
       <div
         className="mt-6 flex overflow-x-auto scrollbar-none"
         style={{ boxShadow: "inset 0 -2px 0 #edf2f7" }}
       >
         <ActiveLink href="/account-settings/basic-information">
-          Informações Básicas
+          Informações do Tutor
         </ActiveLink>
 
         <ActiveLink href="/account-settings/profile" className="ml-10">
-          Perfil
+          Informações do Pet
         </ActiveLink>
 
         <ActiveLink href="/account-settings/team-settings" className="ml-10">
@@ -40,7 +40,7 @@ const AccountSettingsLayout = ({ children }) => {
         </ActiveLink>
 
         <ActiveLink href="/account-settings/billing" className="ml-10">
-          Faturamento
+          Fatura
         </ActiveLink>
 
         <ActiveLink href="/account-settings/notifications" className="ml-10">

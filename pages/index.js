@@ -13,7 +13,7 @@ const Index = () => (
     <div className="mt-12 text-center">
       <Link href="/account-settings/basic-information">
         <a className="inline-block bg-gray-900 hover:bg-gray-800 text-white font-medium rounded-lg px-6 py-4 leading-tight">
-          Realizar Reserva
+          Fazer Reserva
         </a>
       </Link>
     </div>

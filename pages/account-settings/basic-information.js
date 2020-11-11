@@ -23,7 +23,7 @@ const Index = () => (
                   />
                 </div>
               </label>
-            <label className="block">
+            <label className="block mt-5">
               <span className="block font-medium text-sm text-gray-900 leading-tight">
                 Endereço de Email 
               </span>
