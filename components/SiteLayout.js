@@ -13,7 +13,7 @@ const SiteLayout = ({ children }) => (
               </Link>
               <Link href="/account-settings/basic-information">
                 <a className="ml-8 font-medium text-gray-900">
-                  Configurações da Conta
+                  Informações para Reserva no Hotel
                 </a>
               </Link>
             </div>

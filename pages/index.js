@@ -7,7 +7,7 @@ const Index = () => (
         Bem vindos ao
       </span>
       <span className="block text-5xl font-bold leading-none">
-        Pet Garden Hotel
+        Pet Hotel
       </span>
     </h1>
     <div className="mt-12 text-center">
