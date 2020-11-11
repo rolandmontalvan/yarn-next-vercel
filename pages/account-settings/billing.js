@@ -16,7 +16,7 @@ const Index = () => (
                 <input
                   type="email"
                   className="block w-full border border-gray-300 rounded-lg bg-gray-100 px-3 py-2 leading-tight focus:outline-none focus:border-gray-600 focus:bg-white"
-                  placeholder="4242 4242 4242 4242"
+                  placeholder="4204 2042 0420 4204"
                 />
               </div>
             </label>
@@ -27,7 +27,7 @@ const Index = () => (
               <div className="mt-2">
                 <input
                   className="block w-full border border-gray-300 rounded-lg bg-gray-100 px-3 py-2 leading-tight focus:outline-none focus:border-gray-600 focus:bg-white"
-                  placeholder="555 Party Drive"
+                  placeholder="Rua da Amargura,68 Bairro das Graças"
                 />
               </div>
             </label>

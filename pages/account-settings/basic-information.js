@@ -19,7 +19,7 @@ const Index = () => (
                 <input
                   type="email"
                   className="block w-full border border-gray-300 rounded-lg bg-gray-100 px-3 py-2 leading-tight focus:outline-none focus:border-gray-600 focus:bg-white"
-                  placeholder="johndoe@example.com"
+                  placeholder="joaogrilo@example.com"
                 />
               </div>
             </label>
@@ -30,7 +30,7 @@ const Index = () => (
               <div className="mt-2">
                 <input
                   className="block w-full border border-gray-300 rounded-lg bg-gray-100 px-3 py-2 leading-tight focus:outline-none focus:border-gray-600 focus:bg-white"
-                  placeholder="Canada"
+                  placeholder="Brasil"
                 />
               </div>
             </label>
@@ -41,7 +41,7 @@ const Index = () => (
               <div className="mt-2">
                 <input
                   className="block w-full border border-gray-300 rounded-lg bg-gray-100 px-3 py-2 leading-tight focus:outline-none focus:border-gray-600 focus:bg-white"
-                  placeholder="English"
+                  placeholder="Português"
                 />
               </div>
             </label>
