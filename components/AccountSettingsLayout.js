@@ -36,7 +36,7 @@ const AccountSettingsLayout = ({ children }) => {
         </ActiveLink>
 
         <ActiveLink href="/account-settings/team-settings" className="ml-10">
-          Config. da Equipe
+          Data de Entrada/Saída
         </ActiveLink>
 
         <ActiveLink href="/account-settings/billing" className="ml-10">
