@@ -1,0 +1,19 @@
+{
+  "name": "yarn-next-vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rolandmontalvan/yarn-next-vercel.git",
+  "author": "rolandmontalvan <rolandfilho@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "autoprefixer": "^9.6.5",
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "tailwindcss": "^1.1.2"
+  }
+}
