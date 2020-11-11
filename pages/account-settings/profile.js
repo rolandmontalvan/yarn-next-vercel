@@ -6,22 +6,46 @@ const Index = () => (
     <div>
       <div className="pt-6 pb-8 sm:pt-8">
         <p className="text-sm text-gray-700">
-          Defina as informações do seu perfil aqui para que outras pessoas no site possam ver.
+          Defina as informações do seu pet aqui para que a organozação do hotel possa ver.
         </p>
         <div className="mt-6">
           <div className="max-w-4xl mx-auto">
             <label className="block">
               <span className="block font-medium text-sm text-gray-900 leading-tight">
-                Nome em Exibição
+                Nome do Pet
               </span>
               <div className="mt-2">
                 <input
                   type="email"
                   className="block w-full border border-gray-300 rounded-lg bg-gray-100 px-3 py-2 leading-tight focus:outline-none focus:border-gray-600 focus:bg-white"
-                  placeholder="João Grilo"
+                  placeholder="Estopinha"
                 />
               </div>
             </label>
+            <label className="block">
+                <span className="block font-medium text-sm text-gray-900 leading-tight">
+                  Espécie 
+                </span>
+                <div className="mt-2">
+                  <input
+                    type="email"
+                    className="block w-full border border-gray-300 rounded-lg bg-gray-100 px-3 py-2 leading-tight focus:outline-none focus:border-gray-600 focus:bg-white"
+                    placeholder="Canino"
+                  />
+                </div>
+              </label>
+              <label className="block">
+                <span className="block font-medium text-sm text-gray-900 leading-tight">
+                  Raça 
+                </span>
+                <div className="mt-2">
+                  <input
+                    type="email"
+                    className="block w-full border border-gray-300 rounded-lg bg-gray-100 px-3 py-2 leading-tight focus:outline-none focus:border-gray-600 focus:bg-white"
+                    placeholder="Pinsher"
+                  />
+                </div>
+              </label>  
           </div>
         </div>
       </div>

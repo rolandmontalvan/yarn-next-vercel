@@ -5,7 +5,7 @@ const Index = () => (
   <AccountSettingsLayout>
     <div>
       <div className="pt-6 pb-8 sm:pt-8">
-        <p className="text-sm text-gray-700">Defina suas preferências de equipe aqui.</p>
+        <p className="text-sm text-gray-700">Defina sua preferência de equipe aqui.</p>
         <div className="mt-6">
           <div className="max-w-4xl mx-auto">
             <label className="block">
